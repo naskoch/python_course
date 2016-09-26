@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{index.html}
+= CME 193 - Introduction to Scientific Python
+
+== Course description
+
+This short course runs for the first four and a half weeks of the quarter and is
+offered each quarter during the academic year.
+It is recommended for students who want to use Python in math, science,
+or engineering courses and for students who want to learn the basics of
+Python programming, and learn about relevant applications.
+
+The goal of the short course is to familiarize students with Python’s
+tools for scientific computing.
+Lectures will be interactive with a focus on learning by example, and
+assignments will be application-driven.
+Topics covered include control flow, basic data structures, File IO,
+and an introduction to NumPy and SciPy.
+
+== Course information
+
+CME 193 - Introduction to Scientific Python - Spring 2015
+- Location: Hewlitt Teaching Center 200
+- Times: Tuesdays and Thursdays 10:30 am - 11:50 am (9/29 - 10/25)
+
+Instructor:
+Nolan Skochdopole (naskoch at stanford dot edu)
+
+Office hours: Wednesdays, 2 pm - 4 pm and by appointment.
+
+We will be using Canvas for course communication.
+
+== Course prereqs
+
+There are no formal prerequisites.
+However, past experience has shown that people with no programming experience
+will struggle with the pace and have to put in a lot of hours, as if it were a three unit course.
+Hence, *some prior programming experience in some language is strongly encouraged*.
+
+If you have no programming experience, and you still want to take to course, please consider
+completing an introduction of Python on [http://www.codecademy.com/en/tracks/python Codeacademy]
+and/or [https://www.udacity.com/course/cs101 Udacity] before class starts.
+This should get you up to speed!
+
+== Course Policy
+
+The course consists of 8 lectures.
+Roughly the first half is a traditional lecture, and after a short
+minute break, we will spend the rest of the time working on exercises in class.
+Hence, please bring a laptop.
+
+Exercises will be assigned each class.
+
+== Honor code
+
+You are strongly encouraged to work together and discuss both exercises and
+other homework.
+However, the portfolio and other homework should be your own work and all the code
+you submit should be written by yourself.
+Of course, you are free, and encouraged, to search online to solutions to
+problems you run into (though not full solutions to the exercises), and
+use those.
+A simple example would be to look up the syntax of a +for+ loop.
